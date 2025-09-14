@@ -1,2 +1,2 @@
 This is first line of File1.txt
-This file has the logic for Prog2.cob
+This file has the logic for Prog3.cob
